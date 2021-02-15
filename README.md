@@ -2,8 +2,6 @@
 
 ## Scripts
 
-veech
-blois
-amazingFunctions
+veech;  blois;  amazingFunctions
 
 ## Data
