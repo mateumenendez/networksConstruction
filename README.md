@@ -5,7 +5,9 @@ This repository includes the needed R functions and scripts for building co-occu
 ## Functions
 
 veech(): 
+
 blois():  
+
 collapseBlois():
 
 ## Data
@@ -22,4 +24,4 @@ Blois, J. L., Gotelli, N. J., Behrensmeyer, A. K., Faith, J. T., Lyons, S. K., W
 
 Menéndez-Serra, M., Ontiveros, V., Barberan, A., & Casamayor, E. (2021). ...
 
-Veech, J. A. (2013). A probabilistic model for analysing species co-occurrence. Global Ecology and Biogeography, 22(2), 252–260. doi: 10.1111/j.1466-8238.2012.00789.x![image](https://user-images.githubusercontent.com/34509155/119957706-9d52f980-bfa2-11eb-9b7b-3bd491d55aec.png)
+Veech, J. A. (2013). A probabilistic model for analysing species co-occurrence. Global Ecology and Biogeography, 22(2), 252–260. doi: 10.1111/j.1466-8238.2012.00789.x!
