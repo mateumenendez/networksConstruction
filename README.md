@@ -18,7 +18,7 @@ tableMonegros.RData: presence/absence observations table corresponding to the Mo
 
 
 
-### References
+## References
 
 Blois, J. L., Gotelli, N. J., Behrensmeyer, A. K., Faith, J. T., Lyons, S. K., Williams, J. W., … Wing, S. (2014). A framework for evaluating the influence of climate, dispersal limitation, and biotic interactions using fossil pollen associations across the late Quaternary. Ecography, 37(11), 1095–1108. doi: 10.1111/ecog.00779
 
