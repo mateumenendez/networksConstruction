@@ -2,7 +2,7 @@ blois <- function(table, envData, envlist, pairsPositive, pairsNegative, type = 
   
   source("~/Desktop/PhD/R/Blois_functions_v2.R")
   
-  #library(Hmisc)
+  library(Hmisc)
   env <- envData
   env <- env[order(env$site),]
   #env$site <- env[,1]
