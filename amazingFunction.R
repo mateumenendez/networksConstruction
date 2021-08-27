@@ -1,4 +1,6 @@
-amazingFunction <- function(table){
+# Created by Mateu Menéndez-Serra
+
+collapseBlois <- function(table){
   
   order_acc <- c()
   value_acc <- c()
