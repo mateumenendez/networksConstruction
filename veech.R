@@ -1,3 +1,5 @@
+# Created by Vicente J. Ontiveros
+
 veech <- function(table, minOccurrence, l.s.){
   
   Veech_calc <- function(N, j, N1, N2){
