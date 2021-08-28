@@ -1,6 +1,6 @@
 blois <- function(table, envData, envlist, pairsPositive, pairsNegative, type = "both"){
   
-  source("~/Desktop/PhD/R/Blois_functions_v2.R")
+  source("Blois_functions_v2.R")
   
   library(Hmisc)
   env <- envData
