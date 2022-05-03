@@ -1,6 +1,6 @@
 # Co-occurrence/exclusion networks construction
 
-This repository includes the needed R functions and scripts for building co-occurrences and co-exclusions networks as detailed in Menéndez-Serra et al 2021. Network construction method is based on the probabilistic method propose by Vellend (2013) and the conceptual framework proposed by Blois and collaborators (2014). This repository also includes a test dataset consisting on the necessary files for building the co-occurrence and co-exclusion networks of the microbial metacommunity inhabiting the Monegros Desert lacustrine system, described in Menéndez-Serra et al 2021. 
+This repository includes the needed R functions and scripts for building co-occurrences and co-exclusions networks as detailed in Menéndez-Serra et al 2022 (in press). Network construction method is based on the probabilistic method propose by Vellend (2013) and the conceptual framework proposed by Blois and collaborators (2014). This repository also includes a test dataset consisting on the necessary files for building the co-occurrence and co-exclusion networks of the microbial metacommunity inhabiting the Monegros Desert lacustrine system, as described in Menéndez-Serra et al 2022 (in press). 
 
 ## Functions
 
